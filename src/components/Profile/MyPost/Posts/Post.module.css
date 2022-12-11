@@ -1,0 +1,8 @@
+.content {
+	grid-area: c;
+	background-color: saddlebrown;
+}
+.post img{
+	height: 50px;
+	border-radius: 150px;
+}
